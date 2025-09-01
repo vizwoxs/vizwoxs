@@ -1,18 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=32198a">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8c41e9">
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=32198A&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=8c41e9&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/-%23452e7a?style=for-the-badge" width="800" height="8"/>
-</div>
 
-## Estatísticas do GitHub
 
+##
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizwoxs&theme=midnight_purple" alt="Detalhes do Perfil" />
   <br>
