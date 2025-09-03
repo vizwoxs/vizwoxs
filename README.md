@@ -37,6 +37,8 @@
 
 </div>
 
+![Snake Animation](snake-animation.svg)
+
 ##
 
 <div align="center">
