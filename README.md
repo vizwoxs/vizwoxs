@@ -37,7 +37,11 @@
 
 </div>
 
-![Snake Animation](snake-animation.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vizwoxs/vizwoxs/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 
 ##
 
