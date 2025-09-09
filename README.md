@@ -49,7 +49,7 @@
 </div>
 
 <div align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd7a964f-fccd-4875-86d8-af761e552ce8/dfkz08d-1c6cafad-1585-46db-bdca-8e815b668383.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9jZDdhOTY0Zi1mY2NkLTQ4NzUtODZkOC1hZjc2MWU1NTJjZTgvZGZrejA4ZC0xYzZjYWZhZC0xNTg1LTQ2ZGItYmRjYS04ZTgxNWI2NjgzODMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bjn4rkq5AD449u5JELgpEwL6g_pZTXCMY244QS4adcU">
+  <img src="https://i.pinimg.com/originals/5a/34/4a/5a344a7d5b5df196eb1822d8dbb60d4c.gif">
 </div>
 
 
