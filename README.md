@@ -15,8 +15,10 @@
   </a>
 </div>
 
-
 ##
+
+<img width="1920" height="480" alt="Design sem nome" src="https://github.com/user-attachments/assets/28d8d713-2fd8-425d-abb7-f4ab5693649d" />
+
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=blueberry"/>
@@ -40,6 +42,7 @@
   <img src="https://raw.githubusercontent.com/vizwoxs/vizwoxs/output/snake.svg" alt="Snake animation" />
 
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8088E3&height=100&section=footer"/>
 
