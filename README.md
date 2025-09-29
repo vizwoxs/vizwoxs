@@ -17,7 +17,8 @@
 
 ##
 
-<img width="1920" height="480" alt="Design sem nome" src="https://github.com/user-attachments/assets/28d8d713-2fd8-425d-abb7-f4ab5693649d" />
+<img width="1920" height="480" alt="github" src="https://github.com/user-attachments/assets/700c1e02-6fbc-431f-bb9e-c5f805dade17" />
+
 
 
 <div align="center">
