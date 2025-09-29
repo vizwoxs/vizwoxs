@@ -41,20 +41,6 @@
 
 </div>
 
-
-##
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%vizwoxs&s=30&c=cf463c&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/5a/34/4a/5a344a7d5b5df196eb1822d8dbb60d4c.gif">
-</div>
-
-
-<br>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0E0E0&height=100&section=footer"/>
 
 
