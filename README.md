@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=E0E0E0">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8088E3">
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=E0E0E0&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=8088E3&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,9 +19,9 @@
 ##
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=buefy"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizwoxs&theme=buefy"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizwoxs&theme=buefy"/>
+  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=blueberry"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizwoxs&theme=blueberry"/>
+  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizwoxs&theme=blueberry"/>
   <br>
   <br>
 </div>
@@ -41,7 +41,7 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E0E0E0&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8088E3&height=100&section=footer"/>
 
 
 
