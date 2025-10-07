@@ -17,7 +17,8 @@
 
 ##
 
-<img width="1920" height="480" alt="github" src="https://github.com/user-attachments/assets/700c1e02-6fbc-431f-bb9e-c5f805dade17" />
+
+<img width="1500" height="500" alt="Nod - Krai" src="https://github.com/user-attachments/assets/c382cc60-d9ca-43db-b24c-24e1b338c793" />
 
 
 
