@@ -19,7 +19,7 @@
 
 <img width="1500" height="500" alt="Nod - Krai" src="https://github.com/user-attachments/assets/231236fb-f4be-4665-b855-0c5bad188023" />
 
-![flower](https://github.com/user-attachments/assets/00138a5c-101c-4cd0-aebe-af7338793d20)
+
 
 
 <div align="center">
@@ -44,7 +44,6 @@
   <img src="https://raw.githubusercontent.com/vizwoxs/vizwoxs/output/snake.svg" alt="Snake animation" />
 
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD0E0&height=100&section=footer"/>
 
