@@ -17,10 +17,7 @@
 
 ##
 
-
-<img width="1500" height="500" alt="Nod - Krai" src="https://github.com/user-attachments/assets/c382cc60-d9ca-43db-b24c-24e1b338c793" />
-
-
+<img width="1500" height="500" alt="Nod - Krai" src="https://github.com/user-attachments/assets/231236fb-f4be-4665-b855-0c5bad188023" />
 
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=panda"/>
