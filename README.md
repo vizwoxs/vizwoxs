@@ -19,6 +19,9 @@
 
 <img width="1500" height="500" alt="Nod - Krai" src="https://github.com/user-attachments/assets/231236fb-f4be-4665-b855-0c5bad188023" />
 
+![flower](https://github.com/user-attachments/assets/00138a5c-101c-4cd0-aebe-af7338793d20)
+
+
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=panda"/>
   <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizwoxs&theme=panda"/>
