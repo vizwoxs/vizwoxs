@@ -6,7 +6,7 @@
   <b>`разработчик`</b>
   <samp>
       <br>
-      Hi there! I'm Vik!</b>
+      print("Welcome to Vik's Github page")</b>
   </samp>
 </div>
 
