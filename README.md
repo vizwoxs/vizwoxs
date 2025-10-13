@@ -9,6 +9,9 @@
   </samp>
 </div>
 
+<img width="1500" height="100" alt="Design sem nome" src="https://github.com/user-attachments/assets/a41c7ff7-e561-4801-8d2a-29bd18f6b2fe" />
+
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=DEDEDE&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
