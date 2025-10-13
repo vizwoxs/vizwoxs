@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=DEDEDE">
 
 <div align="center">
+<img width="1500" height="100" alt="Design sem nome" src="https://github.com/user-attachments/assets/a41c7ff7-e561-4801-8d2a-29bd18f6b2fe" />
   
   <b>`разработчик`</b>
   <samp>
@@ -9,7 +10,6 @@
   </samp>
 </div>
 
-<img width="1500" height="100" alt="Design sem nome" src="https://github.com/user-attachments/assets/a41c7ff7-e561-4801-8d2a-29bd18f6b2fe" />
 
 
 <div align="center">
