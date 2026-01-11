@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFB0CA">
 
+##
+
 <div align="center">
 
   <b>`разработчик`</b>
@@ -11,6 +13,7 @@
 
 
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=FFB0CA&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+student+of+Systems+Development;Welcome!" alt="Typing SVG" />
@@ -18,6 +21,7 @@
 </div>
 
   <img width="1996" height="600" alt="IMG_20260110_223917" src="https://github.com/user-attachments/assets/6eca285c-23e4-45a4-8860-adae3e6d0356" />
+
 ##
 
 
