@@ -22,15 +22,6 @@
 
 
 
-
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vizwoxs&theme=nord_dark"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vizwoxs&theme=nord_dark"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vizwoxs&theme=nord_dark"/>
-  <br>
-  <br>
-</div>
-
 <div align="center" style="display: inline_block"><br>
 
   <p align="center">
