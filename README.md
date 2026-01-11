@@ -45,6 +45,13 @@
   <img width="500" height="100" alt="74 Sem Título_20260110230527" src="https://github.com/user-attachments/assets/b3c64f01-cdb8-4a27-80f6-5c78558cea54" />
 </div>
 
+<div align="center">
+  
+  ![visitors](https://komarev.com/ghpvc/?username=vizwoxs&color=FFB0CA)
+</div>
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB0CA&height=100&section=footer"/>
 
 
