@@ -3,7 +3,14 @@
 
 <div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=30&duration=4000&pause=1000&color=707070&center=true&width=900&lines=Hello+My+name+is+Vik;I+am+from+Brazil;I'm+a+Systems+Development;and+Cyber+Security+Analyst;Welcome!" alt="Typing SVG" /> </a> 
 
-<div align="center"><b>разработчик</b><samp><br>print("Vik's Github page")</b></samp></div>
+<div align="center">
+  <b>разработчик</b>
+  <samp>
+    <br>print("Vik's Github page")</b>
+  </samp>
+</div>
+
+</div>
 
 ##
   
